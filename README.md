@@ -1,6 +1,7 @@
 # HTT Tracker: Ultimate Web Mirroring & Security Suite
 
 ![Banner](https://img.shields.io/badge/HTT_Tracker-v3.5-brightgreen?style=for-the-badge&logo=python)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Android-blue?style=for-the-badge)
 
 **HTT Tracker** is a high-fidelity web cloning and security research suite. It mirrors dynamic websites with 100% visual integrity, featuring automated environment setup, stealth interception, and a multi-step validation facade.
