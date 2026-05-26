@@ -79,4 +79,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 This software is strictly for **educational** and **authorized security research** purposes. Unauthorized use against systems without explicit permission is illegal and unethical. The developer assumes no liability for misuse.
 
 ---
-*Developed by Antigravity AI*
+*Developed by BLACK ZONE*
