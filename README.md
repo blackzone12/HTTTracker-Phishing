@@ -59,7 +59,7 @@ The `clone` scripts handle everything—Python environment setup, library instal
 | `clone.sh {URL}` | [Linux/Android] Full setup, mirror, and host. |
 | `python tracker.py --serve` | Launch the server for the most recently cloned site. |
 | `python tracker.py {URL} --wait 30` | Increase wait time for very heavy JS sites. |
-
+| `python tracker.py {URL} | Directly run it if error showing (..was unexpected at this time). |
 ---
 
 ## 📂 Data Management
